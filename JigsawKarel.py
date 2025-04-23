@@ -1,6 +1,6 @@
 # Link to view project: https://codeinplace.stanford.edu/cip5/share/7hztHkD8HXqUH0rcc2lm
-from karel.stanfordkarel import *
 
+from karel.stanfordkarel import *
 
 # Main Function 
 def main():
