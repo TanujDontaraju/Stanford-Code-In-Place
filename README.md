@@ -6,4 +6,6 @@ It uses the Code In Place IDE, designed to simulate the experience of Visual Stu
 
 All Projects ending with "Karel.py" utilizes Karel, robot created by Stanford
 
+More Information on Karel: https://compedu.stanford.edu/karel-reader/docs/python/en/intro.html
+
 Learn more about Code In Place: https://codeinplace.stanford.edu/?trk=public_profile_certification-title
