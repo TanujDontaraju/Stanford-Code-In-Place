@@ -4,4 +4,6 @@ This course teaches the fundamentals of computer programming through Python, dra
 
 It uses the Code In Place IDE, designed to simulate the experience of Visual Studio (VS) for learning purposes.
 
+All Projects ending with "Karel.py" utilizes Karel, robot created by Stanford
+
 Learn more about Code In Place: https://codeinplace.stanford.edu/?trk=public_profile_certification-title
