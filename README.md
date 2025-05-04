@@ -1,4 +1,4 @@
-My Projects & Practice Stanford’s Code In Place Program 2025!
+My Favorite Projects & Practice Stanford’s Code In Place Program 2025!
 
 This course teaches the fundamentals of computer programming through Python, drawing from concepts taught in Stanford’s renowned CS106A course.
 
